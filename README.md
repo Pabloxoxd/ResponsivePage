@@ -2,14 +2,16 @@
 A responsive page to  training CSS 
 Screenshots
 
-desktop browser screen
+## DesktopBrowserScreen
 ![](img/screenshot1.png)   
 
-Iphone X screen
+## IphoneXScreen
+
 ![](img/iphoneX.png)   
 ![](img/iphoneX2.png)
 
-Ipad Pro screen
+## IpadsProScreen
+
 ![](img/Ipad%20pro.png)
 
 
