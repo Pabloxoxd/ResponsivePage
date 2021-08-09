@@ -2,4 +2,4 @@
 A responsive page to  training CSS 
 Screenshots
 
-![](img/car350.png)
+![sdasdasds](img/car350.png)
